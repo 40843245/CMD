@@ -70,3 +70,16 @@ https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?v
 #### Additional Reference
 
 https://stackoverflow.com/questions/57121875/what-can-i-do-about-wmic-is-deprecated
+
+## FAQ
+## Run Unix command in Anaconda PowerShell
+Is it possible to run Unix command from Anaconda Powershell?
+
+Yes, it is possible.
+
+
+### Ref
+
+Reply on stackoverflow.
+
+https://stackoverflow.com/questions/3503912/invoking-commands-on-unix-from-windows-power-shell
