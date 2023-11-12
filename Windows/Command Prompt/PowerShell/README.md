@@ -54,6 +54,19 @@ This cmdlet is only available on the Windows platform.
 ###### Explanation
 
      Getting only the key properties, instead of all properties
-     
+
+#### Usage
+
+Replacement of the cmdlet -- wmic.
+
+For more details, see the reply of the link on Additional Reference section.
+
 #### Ref
+
+MSDS:
+
 https://learn.microsoft.com/en-us/powershell/module/cimcmdlets/get-ciminstance?view=powershell-7.3
+
+#### Additional Reference
+
+https://stackoverflow.com/questions/57121875/what-can-i-do-about-wmic-is-deprecated
